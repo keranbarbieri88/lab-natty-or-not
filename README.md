@@ -23,20 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagens criadas por I.A.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing Image Creator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi para a I.A. criar imagens de um bulldog franês na cor preta brincando com as folhas das plantas no outono
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+As iamgens geradas apresentaram o bulldog e também a representação da estação do ano  - outono.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Não fica como se imagina, mas quanto mais detalhes oferecer a I.A. mas próximo da imaginção ela consiguirá chegar.
 
 ### Exemplos e Insigths
 
